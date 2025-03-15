@@ -16,5 +16,5 @@ The script uses Python's `random` library to create passwords based on random ch
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
-   cd random-password-generator
+   git clone https://github.com/Zenx007/Random-Password-Generator.git
+   cd **directory**
